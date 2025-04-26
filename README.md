@@ -1,1 +1,2 @@
 # Bike-Rental-Demand-Forecasting
+Used a Kaggle dataset to predict daily bike rental demand based on features like temperature, season, and weather conditions. After cleaning and preparing the data, two models were built and compared – Linear Regression and Random Forest. To evaluate the performance of both models, a graph was plotted that compared the actual values with the predicted values. The results clearly showed that the Random Forest model gave more accurate predictions.
